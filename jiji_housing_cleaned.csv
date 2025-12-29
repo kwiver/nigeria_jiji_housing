@@ -54,7 +54,6 @@ Furnished 4bdrm Block of Flats in Peninsula Estate for sale,"Ajah, Peninsula Est
 "5bdrm Duplex in A Secured Code To, Ado / Ajah for sale","Ajah, Ado / Ajah",Ado / Ajah,280000000.0,450,5,6,Unfurnished,True,Lagos,622222.2222222222
 "8bdrm Bungalow in House On Plot Of, Iyana Ipaja for sale","Ipaja, Iyana Ipaja",Iyana Ipaja,27000000.0,120,8,2,Unfurnished,True,Lagos,225000.0
 "6bdrm Duplex in Independence Layout, Enugu for sale","Enugu State, Enugu",Enugu,300000000.0,500,6,6,Unfurnished,True,Enugu,600000.0
-3bdrm Block of Flats in Ita Oluwo for sale,"Ikorodu, Ita Oluwo",Ita Oluwo,70000000.0,2195,3,3,Unfurnished,False,Lagos,31890.660592255124
 "3bdrm Apartment in Futa South Gate, Akure for sale","Ondo State, Akure",Akure,75000000.0,700,3,3,Unfurnished,False,Ondo,107142.85714285714
 5bdrm Duplex in Lekki Phase 1 for sale,"Lekki, Lekki Phase 1",Lekki Phase 1,330000000.0,400,5,5,Semi-furnished,True,Lagos,825000.0
 "3bdrm Bungalow in Jedidiah Premium, Enugu for sale","Enugu State, Enugu",Enugu,100000000.0,500,3,3,Unfurnished,True,Enugu,200000.0
@@ -85,7 +84,6 @@ Furnished 3bdrm Bungalow in FHA for sale,"Lugbe District, FHA",FHA,70000000.0,50
 3bdrm Bungalow in Olorunsogo Ibadan for sale,"Oyo State, Ibadan",Ibadan,24000000.0,460,3,3,Semi-furnished,True,Oyo,52173.913043478264
 "2bdrm Apartment in Dajuma, Off Ondo, Akure for sale","Ondo State, Akure",Akure,30000000.0,600,2,1,Unfurnished,False,Ondo,50000.0
 "4bdrm Duplex in Elshammah Estate, Enugu for sale","Enugu State, Enugu",Enugu,120000000.0,500,4,4,Unfurnished,True,Enugu,240000.0
-"5bdrm Duplex in State Line Estate,, Akure for sale","Ondo State, Akure",Akure,50000000.0,3000,5,5,Semi-furnished,False,Ondo,16666.666666666668
 "2bdrm Block of Flats in Gaga, Oke Aro, Akure for sale","Ondo State, Akure",Akure,8000000.0,750,2,2,Unfurnished,False,Ondo,10666.666666666666
 "5bdrm Duplex in Park Avenue, Enugu for sale","Enugu State, Enugu",Enugu,300000000.0,500,5,5,Unfurnished,True,Enugu,600000.0
 "Furnished 5bdrm Duplex in Lugbe, FHA for sale","Lugbe District, FHA",FHA,250000000.0,580,5,5,Furnished,True,Abuja,431034.4827586207
@@ -117,12 +115,10 @@ Furnished 3bdrm Bungalow in FHA for sale,"Lugbe District, FHA",FHA,70000000.0,50
 "4bdrm Bungalow in Isokan Estate Akobo, Ibadan for sale","Oyo State, Ibadan",Ibadan,65000000.0,400,4,4,Semi-furnished,True,Oyo,162500.0
 "4bdrm Bungalow in Ire Akari Est, Soka, Ibadan for sale","Oyo State, Ibadan",Ibadan,60000000.0,1000,4,3,Unfurnished,True,Oyo,60000.0
 3bdrm Duplex in Wuye for sale,"Abuja (FCT), Wuye",Wuye,250000000.0,200,3,3,Unfurnished,True,Abuja,1250000.0
-4bdrm Penthouse in Wuye for sale,"Abuja (FCT), Wuye",Wuye,240000000.0,5000,4,4,Unfurnished,True,Abuja,48000.0
 "3bdrm Bungalow in Transekulu, Enugu for sale","Enugu State, Enugu",Enugu,65000000.0,600,3,3,Unfurnished,True,Enugu,108333.33333333333
 12bdrm House in Water Area Agbowo for sale,"Oyo State, Ibadan",Ibadan,85000000.0,550,12,4,Unfurnished,False,Oyo,154545.45454545456
 "3bdrm Apartment in A Well Serene And, Lekki Phase 1 for sale","Lekki, Lekki Phase 1",Lekki Phase 1,350000000.0,300,3,3,Unfurnished,True,Lagos,1166666.6666666667
 "5bdrm Duplex in Olapade Estate,, Ibadan for sale","Oyo State, Ibadan",Ibadan,130000000.0,700,5,6,Semi-furnished,False,Oyo,185714.2857142857
-"9bdrm Duplex in Gra, Oke Opa Road, Ondo / Ondo State for sale","Ondo State, Ondo / Ondo State",Ondo / Ondo State,100000000.0,3200,9,10,Unfurnished,False,Ondo,31250.0
 "3bdrm Block of Flats in Oda, Akure for sale","Ondo State, Akure",Akure,55000000.0,750,3,3,Semi-furnished,False,Ondo,73333.33333333333
 "2bdrm Apartment in Behind Foodco, Ibadan for sale","Oyo State, Ibadan",Ibadan,65000000.0,900,2,3,Semi-furnished,False,Oyo,72222.22222222222
 "3bdrm Block of Flats in Dajuma, Off Ondo, Akure for sale","Ondo State, Akure",Akure,27000000.0,750,3,2,Unfurnished,False,Ondo,36000.0
@@ -155,7 +151,6 @@ Furnished 2bdrm House in Amuwo-Odofin for sale,"Lagos State, Amuwo-Odofin",Amuwo
 "Furnished 4bdrm Duplex in Rexroy Global, Lokoja for sale","Kogi State, Lokoja",Lokoja,65000000.0,289,4,4,Furnished,False,Kogi,224913.4948096886
 4bdrm Duplex in Surulere Lagos for sale,"Lagos State, Surulere",Surulere,280000000.0,450,4,4,Unfurnished,True,Lagos,622222.2222222222
 2bdrm Apartment in Ikate for sale,"Lekki, Ikate",Ikate,120000000.0,350,2,2,Unfurnished,True,Lagos,342857.14285714284
-3bdrm Bungalow in Oshimili South for sale,"Delta State, Oshimili South",Oshimili South,38000000.0,4990,3,4,Unfurnished,False,Delta,7615.230460921844
 3bdrm Apartment in Kaba for sale,"Gwagwa, Kaba",Kaba,16000000.0,450,3,3,Semi-furnished,True,Abuja,35555.555555555555
 "Furnished 8bdrm Bungalow in Sapele Estate, Obafemi-Owode for sale","Ogun State, Obafemi-Owode",Obafemi-Owode,42000000.0,650,8,8,Furnished,True,Ogun,64615.38461538462
 "Furnished 3bdrm Duplex in Chevron, Lekki for sale","Lagos State, Lekki",Lekki,130000000.0,500,3,4,Furnished,False,Lagos,260000.0
@@ -185,7 +180,6 @@ Furnished 4bdrm Apartment in Dei-Dei for sale,"Abuja (FCT), Dei-Dei",Dei-Dei,540
 Furnished 4bdrm Duplex in Chevron for sale,"Lekki, Chevron",Chevron,280000000.0,800,4,5,Furnished,False,Lagos,350000.0
 1bdrm Apartment in Kubwa for sale,"Abuja (FCT), Kubwa",Kubwa,6000000.0,200,1,1,Semi-furnished,True,Abuja,30000.0
 "6bdrm Block of Flats in Love Estate, Ibadan for sale","Oyo State, Ibadan",Ibadan,65000000.0,516,6,6,Semi-furnished,True,Oyo,125968.99224806202
-"20bdrm Block of Flats in Off Celestial Road, Igando / Ikotun/Igando","Ikotun/Igando, Igando / Ikotun/Igando",Igando / Ikotun/Igando,450000000.0,2500,20,20,Unfurnished,True,Lagos,180000.0
 "10bdrm Block of Flats in Unity, Egbeda for sale","Alimosho, Egbeda",Egbeda,250000000.0,650,10,10,Semi-furnished,True,Lagos,384615.3846153846
 "20bdrm Block of Flats in Gowon, Egbeda for sale","Alimosho, Egbeda",Egbeda,350000000.0,1200,20,10,Semi-furnished,True,Lagos,291666.6666666667
 "5bdrm Duplex in Royal Quarter, Ibadan for sale","Oyo State, Ibadan",Ibadan,70000000.0,500,5,5,Unfurnished,True,Oyo,140000.0
@@ -312,7 +306,6 @@ Furnished 18bdrm Block of Flats in Benin City for sale,"Edo State, Benin City",B
 2bdrm Apartment in Ologolo for sale,"Lekki, Ologolo",Ologolo,125000000.0,250,2,2,Semi-furnished,True,Lagos,500000.0
 Furnished 5bdrm Duplex in Surulere for sale,"Lagos State, Surulere",Surulere,500000000.0,500,5,5,Furnished,True,Lagos,1000000.0
 5bdrm Duplex in Ikota for sale,"Lekki, Ikota",Ikota,520000000.0,750,5,5,Semi-furnished,True,Lagos,693333.3333333334
-5bdrm Duplex in Mabushi Abuja for sale,"Abuja (FCT), Mabushi",Mabushi,330000000.0,3000,5,6,Semi-furnished,True,Abuja,110000.0
 "4bdrm Duplex in Estate, Opebi for sale","Ikeja, Opebi",Opebi,450000000.0,280,4,4,Semi-furnished,True,Lagos,1607142.857142857
 4bdrm Duplex in Sangotedo for sale,"Ajah, Sangotedo",Sangotedo,165000000.0,500,4,5,Unfurnished,True,Lagos,330000.0
 4bdrm Duplex in Life Camp for sale,"Gwarinpa, Life Camp",Life Camp,280000000.0,370,4,5,Unfurnished,True,Abuja,756756.7567567568
@@ -504,7 +497,6 @@ Furnished 3bdrm Duplex in Ikota for sale,"Lekki, Ikota",Ikota,150000000.0,750,3,
 5bdrm Duplex in Off Lekki-Epe Expressway for sale,"Ajah, Off Lekki-Epe Expressway",Off Lekki-Epe Expressway,290000000.0,500,5,6,Semi-furnished,True,Lagos,580000.0
 4bdrm Duplex in Zone B for sale,"Apo District, Zone B",Zone B,200000000.0,370,4,5,Unfurnished,True,Abuja,540540.5405405406
 "6bdrm Duplex in Chime, Enugu for sale","Enugu State, Enugu",Enugu,320000000.0,750,6,6,Semi-furnished,True,Enugu,426666.6666666667
-"5bdrm Penthouse in Carlton Gate Estate, Akobo for sale","Ibadan, Akobo",Akobo,180000000.0,3600,5,6,Semi-furnished,True,Oyo,50000.0
 "Furnished 4bdrm Duplex in Estate, Ojodu for sale","Lagos State, Ojodu",Ojodu,300000000.0,300,4,4,Furnished,True,Lagos,1000000.0
 "4bdrm Duplex in Estate, Isheri North for sale","Ojodu, Isheri North",Isheri North,155000000.0,450,4,4,Semi-furnished,True,Lagos,344444.44444444444
 5bdrm Duplex in Malami Estate for sale,"Ibadan, Oluyole Estate",Oluyole Estate,300000000.0,600,5,6,Semi-furnished,True,Oyo,500000.0
@@ -568,7 +560,6 @@ Furnished 4bdrm Duplex in Benin City for sale,"Edo State, Benin City",Benin City
 "3bdrm Bungalow in Rumuekini Off, Port-Harcourt for sale","Rivers State, Port-Harcourt",Port-Harcourt,57000000.0,325,3,3,Semi-furnished,True,Rivers,175384.61538461538
 "5bdrm Duplex in Bolajoko Estate, Akobo for sale","Ibadan, Akobo",Akobo,100000000.0,600,5,6,Unfurnished,True,Oyo,166666.66666666666
 "4bdrm Bungalow in Omolaso Area, Iwo Road for sale","Ibadan, Iwo Road",Iwo Road,45500000.0,600,4,5,Semi-furnished,True,Oyo,75833.33333333333
-"5bdrm Duplex in Mabuchi Abuja, Mabushi for sale","Abuja (FCT), Mabushi",Mabushi,330000000.0,3000,5,6,Semi-furnished,True,Abuja,110000.0
 "4bdrm Duplex in Nuga Luxury, Lugbe District for sale","Abuja (FCT), Lugbe District",Lugbe District,135000000.0,400,4,5,Unfurnished,True,Abuja,337500.0
 "4bdrm Duplex in Diamond City Estate, Lugbe District for sale","Abuja (FCT), Lugbe District",Lugbe District,120000000.0,350,4,5,Unfurnished,True,Abuja,342857.14285714284
 "4bdrm Apartment in In An Estate, Nut, Lugbe District for sale","Abuja (FCT), Lugbe District",Lugbe District,100000000.0,400,4,5,Unfurnished,True,Abuja,250000.0
@@ -611,7 +602,6 @@ Furnished 5bdrm Duplex in GRA Phase 1 for sale,"Magodo, GRA Phase 1",GRA Phase 1
 "3bdrm Block of Flats in Mahs Homes, Jahi for sale","Abuja (FCT), Jahi",Jahi,200000000.0,300,3,4,Unfurnished,True,Abuja,666666.6666666666
 5bdrm Duplex in Magodo Phase 2 Gra for sale,"Magodo, GRA Phase 2 Shangisha",GRA Phase 2 Shangisha,540000000.0,370,5,5,Semi-furnished,True,Lagos,1459459.4594594594
 "3bdrm Bungalow in Alafara Estate, Jericho for sale","Ibadan, Jericho",Jericho,85000000.0,576,3,4,Semi-furnished,True,Oyo,147569.44444444444
-5bdrm Duplex in Jericho Gra for sale,"Ibadan, Jericho",Jericho,240000000.0,2400,5,6,Semi-furnished,True,Oyo,100000.0
 5bdrm Duplex in Sangotedo Ajah for sale,"Ajah, Sangotedo",Sangotedo,140000000.0,300,5,6,Semi-furnished,True,Lagos,466666.6666666667
 5bdrm Duplex in Central Business District for sale,"Abuja (FCT), Central Business District",Central Business District,220000000.0,600,5,5,Semi-furnished,True,Abuja,366666.6666666667
 Furnished 2bdrm Block of Flats in Chevron Toll Gate for sale,"Lekki, Chevron",Chevron,82000000.0,2000,2,3,Furnished,True,Lagos,41000.0
@@ -724,7 +714,6 @@ Furnished 5bdrm Duplex in Magodo Gra Phase 2 for sale,"Magodo, GRA Phase 2 Shang
 "4bdrm Duplex in Ologolo, Lekki for sale","Lagos State, Lekki",Lekki,200000000.0,600,4,5,Semi-furnished,True,Lagos,333333.3333333333
 2bdrm Apartment in Allen Ikeja Lagos for sale,"Lagos State, Ikeja",Ikeja,150000000.0,500,2,2,Unfurnished,True,Lagos,300000.0
 4bdrm Duplex in Chevron Lekki Lagos for sale,"Lekki, Chevron",Chevron,320000000.0,500,4,4,Semi-furnished,True,Lagos,640000.0
-3bdrm Block of Flats in Wuye District for sale,"Abuja (FCT), Wuye",Wuye,150000000.0,3000,3,5,Unfurnished,True,Abuja,50000.0
 Furnished 4bdrm Maisonette in Lekki Phase 1 for sale,"Lekki, Lekki Phase 1",Lekki Phase 1,450000000.0,500,4,4,Furnished,True,Lagos,900000.0
 6bdrm Duplex in Durumi for sale,"Abuja (FCT), Durumi",Durumi,400000000.0,500,6,6,Unfurnished,True,Abuja,800000.0
 "5bdrm House in Ogijo, Ita Oluwo for sale","Ikorodu, Ita Oluwo",Ita Oluwo,110000000.0,648,5,5,Unfurnished,True,Lagos,169753.0864197531
@@ -953,8 +942,6 @@ Furnished 5bdrm Duplex in Oluyole for sale,"Oyo State, Oluyole",Oluyole,38500000
 "5bdrm Duplex in Ajah By Blenco In A, Off Lekki-Epe Expressway for sale","Ajah, Off Lekki-Epe Expressway",Off Lekki-Epe Expressway,200000000.0,300,5,5,Unfurnished,True,Lagos,666666.6666666666
 "4bdrm Duplex in Access Code Entry, Ado / Ajah for sale","Ajah, Ado / Ajah",Ado / Ajah,155000000.0,250,4,4,Unfurnished,True,Lagos,620000.0
 "5bdrm Duplex in Brown Gate, Oluyole for sale","Oyo State, Oluyole",Oluyole,250000000.0,600,5,6,Semi-furnished,True,Oyo,416666.6666666667
-20bdrm Apartment in Kubwa for sale,"Abuja (FCT), Kubwa",Kubwa,520000000.0,5000,20,20,Unfurnished,True,Abuja,104000.0
-4bdrm Duplex in Mabushi for sale,"Abuja (FCT), Mabushi",Mabushi,430000000.0,3500,4,5,Unfurnished,True,Abuja,122857.14285714286
 "Furnished 2bdrm Block of Flats in Wiltop Omitoro, Ijede / Ikorodu","Ikorodu, Ijede / Ikorodu",Ijede / Ikorodu,50000000.0,324,2,3,Furnished,True,Lagos,154320.98765432098
 "4bdrm House in Arowojobe, Maryland for sale","Lagos State, Maryland",Maryland,270000000.0,300,4,4,Unfurnished,True,Lagos,900000.0
 4bdrm Duplex in Ajah Lekki Lagos for sale,"Ajah, Ado / Ajah",Ado / Ajah,145000000.0,500,4,4,Unfurnished,True,Lagos,290000.0
@@ -993,7 +980,6 @@ Furnished 3bdrm Apartment in Shonibare Maryland for sale,"Lagos State, Maryland"
 4bdrm Duplex in Oko Oba Agege Lagos for sale,"Agege, Oko-Oba",Oko-Oba,260000000.0,450,4,5,Unfurnished,True,Lagos,577777.7777777778
 3bdrm Apartment in Ipaja for sale,"Lagos State, Ipaja",Ipaja,65000000.0,350,3,3,Unfurnished,True,Lagos,185714.2857142857
 4bdrm Duplex in Magodo Isheri for sale,"Ojodu, Magodo Isheri",Magodo Isheri,200000000.0,500,4,5,Unfurnished,True,Lagos,400000.0
-5bdrm Duplex in Jahi District for sale,"Abuja (FCT), Jahi",Jahi,480000000.0,2500,5,6,Unfurnished,True,Abuja,192000.0
 "2bdrm Apartment in Private Estate, Lekki for sale","Lagos State, Lekki",Lekki,100000000.0,630,2,2,Unfurnished,True,Lagos,158730.15873015873
 "4bdrm Duplex in Ochid, Lekki for sale","Lagos State, Lekki",Lekki,200000000.0,480,4,4,Unfurnished,True,Lagos,416666.6666666667
 "6bdrm Duplex in Efab Metro Polis, Gwarinpa for sale","Abuja (FCT), Gwarinpa",Gwarinpa,435000000.0,700,6,6,Semi-furnished,True,Abuja,621428.5714285715
@@ -1238,6 +1224,7 @@ Furnished 4bdrm Duplex in Ikate for sale,"Lekki, Ikate",Ikate,350000000.0,500,4,
 Furnished 4bdrm Duplex in Adeniyi Jones for sale,"Ikeja, Adeniyi Jones",Adeniyi Jones,450000000.0,300,4,4,Furnished,True,Lagos,1500000.0
 4bdrm Duplex in Katampe Main for sale,"Katampe, Katampe (Main)",Katampe (Main),155000000.0,300,4,4,Unfurnished,True,Abuja,516666.6666666667
 2bdrm Apartment in Jahi for sale,"Abuja (FCT), Jahi",Jahi,140000000.0,250,2,2,Unfurnished,True,Abuja,560000.0
+4bdrm Duplex in Mabushi for sale,"Abuja (FCT), Mabushi",Mabushi,250000000.0,500,4,4,Unfurnished,True,Abuja,500000.0
 3bdrm Bungalow in Akobo for sale,"Ibadan, Akobo",Akobo,55000000.0,610,3,3,Unfurnished,True,Oyo,90163.9344262295
 "5bdrm Duplex in Aja, Lekki for sale","Lagos State, Lekki",Lekki,290000000.0,600,5,5,Unfurnished,True,Lagos,483333.3333333333
 "Furnished 5bdrm Duplex in Maplewood Estate, Oko-Oba for sale","Agege, Oko-Oba",Oko-Oba,400000000.0,600,5,5,Furnished,True,Lagos,666666.6666666666
